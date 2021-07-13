@@ -22,17 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ph.D. Candidate
-    company: Princeton University
-    date_start: '2015-09-01'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
-    description: Developed a new single-molecule Forster resonance energy transfer measurement platform and algorithms to extract dynamic structural information from individual molecules in solution.
+    description: |2-
+        Responsibilities include:
         
-  - title: M.Sci. Student
-    company: University of Cambridge        
-    date_start: '2015-07-01'
-    date_end: '2014-07-01'
-    description: Investigated the stochastic transport properties of colloids in microfluidic channels using holographic optical tweezers and Kramers Theory.
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
