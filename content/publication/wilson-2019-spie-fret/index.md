@@ -1,14 +1,15 @@
 ---
-title: "A new title for the paper"
+title: "Tetherless, precise and extended observation of single-molecule FRET in an Anti-Brownian trap"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Hugh Wilson
+- Robert S. Windeler
 - Quan Wang
 
-date: "2013-07-01T00:00:00Z"
+date: "2019-03-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,23 +22,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Proc. SPIE*
+# publication_short: In *Nat. Methods*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A comprehensive understanding of biomolecules calls for the ability to observe single-molecule dynamics at the nanometer scale without constraints. Single-molecule Förster resonance energy transfer (smFRET) is a powerful tool for probing nanoscale dynamics, but existing modalities have limitations. Solution based confocal measurements are restricted by the short (~1ms) diffusion limited observation time. Surface immobilized measurements can extend the observation window, but at the expense of the molecule?s translational and rotational degrees of freedom. Moreover, there is always a concern that immobilization may perturb the biomolecule?s function. We overcome these limitations by combining smFRET optics with the capability to isolate individual molecules in solution using an Anti-Brownian ELectrokinetic (ABEL) trap. Our new platform, ABEL-FRET, enables photon-by-photon recording of smFRET trajectories over tens of seconds in solution, without tethering the molecule to a surface. We first demonstrate ABELFRET using short (~10bp) DNA rulers and achieve near shot-noise limited precision of ?E~0.01 for 5,000 photons, which enables resolution of single base pair differences in a mixture of FRET-labeled dsDNA molecules. We also demonstrate the capability to make simultaneous measurements of donor fluorescence lifetime and smFRET.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Proceedings
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10884/2508631/Tetherless-precise-and-extended-observation-of-single-molecule-FRET-in/10.1117/12.2508631.full?SSO=1
 
 url_pdf: ''
 url_code: ''
@@ -60,15 +61,16 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
+# example
 ---
 
 {{% callout note %}}
