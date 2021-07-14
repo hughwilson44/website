@@ -71,7 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-#Hugh Wilson works on developing new tools for single-molecule biophysics with [Quan Wang](https://wanglabprinceton.weebly.com/) at Princeton University. 
 Hi, I'm Hugh. I'm currently working on my **Ph.D. in single-molecule biophysics** at the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/) at Princeton University. I'm advised by [Quan Wang](https://wanglabprinceton.weebly.com/).
 
 My research has focused on developing new tools and algorithms to extract dynamic structural information from individual biomolecules and complexes in solution. I've also applied these tools to study problems in molecular biophysics.
