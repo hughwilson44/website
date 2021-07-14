@@ -14,13 +14,14 @@ organizations:
   url: https://www.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include single-molecule biophysics, algorithm development, and structural biology
+bio: My research interests include single-molecule measurements and super-resolution imaging, molecular biophysics, algorithm development, and structural biology
 
 # Interests to show in About widget
 interests:
-- Single-molecule biophysics
-- Algorithm development
-- Structural Biology
+- Single-molecule measurements and super-resolution imaging
+- Molecular biophysics
+- Algorithm development (time series analysis, image processing)
+- Structural Biology (cryoEM and cryoET)
 
 # Education to show in About widget
 education:
@@ -70,5 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Hugh Wilson works on developing new tools for single-molecule biophysics with [Quan Wang](https://wanglabprinceton.weebly.com/) at Princeton University. 
+#Hugh Wilson works on developing new tools for single-molecule biophysics with [Quan Wang](https://wanglabprinceton.weebly.com/) at Princeton University. 
+Hi, I'm Hugh. I'm currently working on my **Ph.D. in single-molecule biophysics** at the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/) at Princeton University. I'm advised by [Quan Wang](https://wanglabprinceton.weebly.com/).
 
+My research has focused on developing new tools and algorithms to extract dynamic structural information from individual biomolecules and complexes in solution. I've also applied these tools to study problems in molecular biophysics.
