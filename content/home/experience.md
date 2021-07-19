@@ -30,8 +30,8 @@ experience:
         
   - title: M.Sci. Student
     company: University of Cambridge        
-    date_start: '2015-07-01'
-    date_end: '2014-07-01'
+    date_start: '2014-07-01'
+    date_end: '2015-07-01'
     description: Investigated the stochastic transport properties of colloids in microfluidic channels using holographic optical tweezers and Kramers Theory.
 
 design:
