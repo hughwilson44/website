@@ -27,8 +27,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the National Academy of Sciences*
-publication_short: In *PNAS*
+publication: _Proceedings of the National Academy of Sciences_
+publication_short: _PNAS_
 
 abstract: Recent experiments have suggested that the energy released by a chemical reaction can propel its enzyme catalyst (for example, alkaline phosphatase). 	However, this topic remains controversial, partially due to the indirect and ensemble nature of existing measurements. Here, we used recently developed single-molecule approaches to monitor directly the motions of individual proteins in aqueous solution and find that single alkaline phosphatase enzymes do not diffuse faster under catalysis. Instead, we demonstrate that interactions between the fluorescent dye and the enzyme?s substrate can produce the signature of apparent diffusion enhancement in fluorescence correlation spectroscopy, the standard ensemble assay currently used to study enzyme diffusion and indicate that single-molecule approaches provide a more robust means to investigate diffusion at the nanoscale.
 

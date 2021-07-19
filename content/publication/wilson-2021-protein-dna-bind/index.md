@@ -22,8 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *bioRxiv*
-publication_short: In *bioRxiv*
+publication: _bioRxiv_
+publication_short: _bioRxiv_
 
 abstract: Single-molecule fluorescence investigations of protein-nucleic acid interactions require robust means to identify the binding state of individual substrate molecules in real time. Here we show that diffusivity contrast, widely used in fluorescence correlation spectroscopy at the ensemble level and in single-particle tracking on individual (but slowly diffusing) species, can be used as a general readout to determine the binding state of single DNA molecules with unlabeled proteins in solution. We first describe the technical basis of drift-free single-molecule diffusivity measurements in an Anti-Brownian ELetrokinetic (ABEL) trap. We then cross-validate our method with protein-induced fluorescence enhancement (PIFE), a popular technique to detect protein binding on nucleic acid substrates with single-molecule sensitivity. We extend an existing hydrodynamic modeling framework to link measured diffusivity to particular DNA-protein structures and obtain good agreement between the measured and predicted diffusivity values. Finally, we show that combining diffusivity contrast with PIFE allows simultaneous mapping of binding stoichiometry and location on individual DNA-protein complexes, potentially enhancing single-molecule views of relevant biophysical processes.
 

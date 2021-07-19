@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Methods*
-publication_short: In *Nat. Methods*
+publication: _Nature Methods_
+publication_short: _Nat. Methods_
 
 abstract: Single-molecule Forster resonance energy transfer (smFRET) has become a
   versatile and widespread method to probe nanoscale conformation and dynamics. 
