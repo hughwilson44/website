@@ -22,8 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proc. SPIE*
-publication_short: In *Proc. SPIE*
+publication: _Proc. SPIE_
+publication_short: _Proc. SPIE_
 
 abstract: A comprehensive understanding of biomolecules calls for the ability to observe single-molecule dynamics at the nanometer scale without constraints. Single-molecule Forster resonance energy transfer (smFRET) is a powerful tool for probing nanoscale dynamics, but existing modalities have limitations. 
 #Solution based confocal measurements are restricted by the short (~1ms) diffusion limited observation time. Surface immobilized #measurements can extend the observation window, but at the expense of the molecule?s translational and rotational degrees of freedom. #Moreover, there is always a concern that immobilization may perturb the biomolecule?s function. We overcome these limitations by #combining smFRET optics with the capability to isolate individual molecules in solution using an Anti-Brownian ELectrokinetic (ABEL) #trap. Our new platform, ABEL-FRET, enables photon-by-photon recording of smFRET trajectories over tens of seconds in solution, #without tethering the molecule to a surface. We first demonstrate ABELFRET using short (~10bp) DNA rulers and achieve near shot-#noise limited precision of std(E)~0.01 for 5,000 photons, which enables resolution of single base pair differences in a mixture of FRET-#labeled dsDNA molecules. We also demonstrate the capability to make simultaneous measurements of donor fluorescence lifetime and #smFRET.
