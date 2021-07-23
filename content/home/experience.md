@@ -28,11 +28,14 @@ experience:
 #    date_end: ''
 #    description: Developed a new single-molecule measurement platform, which combines Forster resonance energy transfer measurements with algorithms to infer the single-molecule diffusion coefficient and electrokinetic mobility, enabling extraction of dynamic structural information from individual biomolecular complexes in solution. Applied this platform to study protein-nucleic acid interactions in the context of DNA processing and ribonucleoprotein assembly.
         
-  - title: M.Sci. Student, Department of Physics, University of Cambridge
-    company: Principal Investigator: Professor Ulrich F Keyser        
+  - title: M.Sci. Student
+    company: Department of Physics, University of Cambridge        
     date_start: '2014-07-01'
     date_end: '2015-07-01'
-    description: Investigated the stochastic transport properties of colloids in microfluidic channels using holographic optical tweezers and Kramers Theory.
+    description: >-
+      Investigated the stochastic transport properties of colloids in microfluidic channels using holographic optical tweezers and Kramers Theory.
+      
+      Principal Investigator: Professor Ulrich F Keyser
     
 #  - title: Internship, Controlled Molecule Imaging Group, Center for Free-Electron Laser Science, Hamburg
 #    company: Principal Investigator: Professor Jochen Kupper
