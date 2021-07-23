@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = ""
   description = """
-Awarded at the Single Molecule Spectroscopy and Superresolution Imaging XII conference (part of SPIE Photonics West)
+Awarded best paper award at the Single Molecule Spectroscopy and Superresolution Imaging XII conference (part of SPIE Photonics West)
 
 """
 
@@ -35,7 +35,7 @@ Awarded at the Single Molecule Spectroscopy and Superresolution Imaging XII conf
 [[item]]
   organization = "DAAD: German Academic Exchange Service"
   organization_url = ""
-  title = "RISE Internship funding award"
+  title = "DAAD RISE Scholar"
   url = ""
   certificate_url = ""
   date_start = "2013-07-01"
