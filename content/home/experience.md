@@ -32,10 +32,9 @@ experience:
     company: Department of Physics, University of Cambridge        
     date_start: '2014-07-01'
     date_end: '2015-07-01'
-    description: >-
-      Investigated the stochastic transport properties of colloids in microfluidic channels using holographic optical tweezers and Kramers Theory.
-      
-      Principal Investigator: Professor Ulrich F Keyser
+    description: |
+      ### Principal Investigator: Professor Ulrich F Keyser
+      Investigated the stochastic transport properties of colloids in microfluidic channels using holographic optical tweezers and Kramers Theory.      * 
     
 #  - title: Internship, Controlled Molecule Imaging Group, Center for Free-Electron Laser Science, Hamburg
 #    company: Principal Investigator: Professor Jochen Kupper
