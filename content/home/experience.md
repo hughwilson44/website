@@ -22,10 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: MRC Postdoctoral Researcher
+    company: MRC Laboratory of Molecular Biology
+    date_start: '2022-03-01'
+    date_end: ''
+    description: |
+      Developing new specimen supports for electron cryomicroscopy (cryoEM) & studying the physics of specimen-electron beam interactions. 
+      **Principal Investigator:** Dr Chris Russo
+
   - title: Ph.D. Candidate
     company: Lewis-Sigler Institute, Princeton University
     date_start: '2015-09-01'
-    date_end: ''
+    date_end: '2022-02-28'
     description: |
       Developed a new single-molecule measurement platform, which combines Forster resonance energy transfer measurements with algorithms to infer the single-molecule diffusion coefficient and electrokinetic mobility, enabling extraction of dynamic structural information from individual biomolecular complexes in solution. Applied this platform to study protein-nucleic acid interactions in the context of DNA processing and ribonucleoprotein assembly.
       
