@@ -38,7 +38,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Proceedings
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10884/2508631/Tetherless-precise-and-extended-observation-of-single-molecule-FRET-in/10.1117/12.2508631.full?SSO=1
+  url: https://doi.org/10.1117/12.2508631
 
 url_pdf: ''
 url_code: ''

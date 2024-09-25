@@ -55,7 +55,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Journal
-  url: https://www.pnas.org/doi/full/10.1073/pnas.2312905120
+  url: https://doi.org/10.1073/pnas.2312905120
 
 url_pdf: ''
 url_code: ''

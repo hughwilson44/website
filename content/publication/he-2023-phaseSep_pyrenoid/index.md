@@ -1,15 +1,19 @@
 ---
-title: "Probing DNA-protein interactions using single-molecule diffusivity contrast"
+title: "Phase-separating pyrenoid proteins form complexes in the dilute phase"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Guanhua He
+- Trevor GrandPre
 - Hugh Wilson
-- Miles Lee
+- Yaojun Zhang
+- Martin C. Jonikas
+- Ned S. Wingreen
 - Quan Wang
 
-date: "2021-09-08T00:00:00Z"
+date: "2023-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Biophysical Reports_
-publication_short: _Biophys. Rep._
+publication: _Communications Biology_
+publication_short: _Commun. Biol._
 
-abstract: Single-molecule fluorescence investigations of protein-nucleic acid interactions require robust means to identify the binding state of individual substrate molecules in real time. Here, we show that diffusivity contrast, widely used in fluorescence correlation spectroscopy at the ensemble level and in single-particle tracking on individual (but slowly diffusing) species, can be used as a general readout to determine the binding state of single DNA molecules with unlabeled proteins in solution. We first describe the technical basis of drift-free single-molecule diffusivity measurements in an anti-Brownian electrokinetic trap. We then cross-validate our method with protein-induced fluorescence enhancement, a popular technique to detect protein binding on nucleic acid substrates with single-molecule sensitivity. We extend an existing hydrodynamic modeling framework to link measured diffusivity to particular DNA-protein structures and obtain good agreement between the measured and predicted diffusivity values. Finally, we show that combining diffusivity contrast with protein-induced fluorescence enhancement allows simultaneous mapping of binding stoichiometry and location on individual DNA-protein complexes, potentially enhancing single-molecule views of relevant biophysical processes.
+abstract: While most studies of biomolecular phase separation have focused on the condensed phase, relatively little is known about the dilute phase. Theory suggests that stable complexes form in the dilute phase of two-component phase-separating systems, impacting phase separation; however, these complexes have not been interrogated experimentally. We show that such complexes indeed exist, using an in vitro reconstitution system of a phase-separated organelle, the algal pyrenoid, consisting of purified proteins Rubisco and EPYC1. Applying fluorescence correlation spectroscopy (FCS) to measure diffusion coefficients, we found that complexes form in the dilute phase with or without condensates present. The majority of these complexes contain exactly one Rubisco molecule. Additionally, we developed a simple analytical model which recapitulates experimental findings and provides molecular insights into the dilute phase organization. Thus, our results demonstrate the existence of protein complexes in the dilute phase, which could play important roles in the stability, dynamics, and regulation of condensates.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +42,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Journal
-  url: https://doi.org/10.1016/j.bpr.2021.100009
+  url: https://doi.org/10.1038/s42003-022-04373-x
 
 url_pdf: ''
 url_code: ''

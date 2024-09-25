@@ -46,7 +46,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Journal
-  url: https://www.nature.com/articles/s41592-021-01173-9
+  url: https://doi.org/10.1038/s41592-021-01173-9
 
 url_pdf: ''
 url_code: ''
