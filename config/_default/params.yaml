@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: hswilson@princeton.edu
+email: hwilson@mrc-lmb.cam.ac.uk
 address:
-  street: Icahn Laboratory 
-  city: Princeton
-  region: NJ
-  postcode: '08540'
-  country: United States
-  country_code: US
+  street: Francis Crick Avenue
+  city: Cambridge
+  region: 
+  postcode: 'CB2 0QH'
+  country: United Kingdom
+  country_code: UK
 
 # Site header
 

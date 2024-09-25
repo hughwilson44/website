@@ -28,6 +28,7 @@ experience:
     date_end: ''
     description: |
       Developing new specimen supports for electron cryomicroscopy (cryoEM) & studying the physics of specimen-electron beam interactions. 
+      
       **Principal Investigator:** Dr Chris Russo
 
   - title: Ph.D. Candidate

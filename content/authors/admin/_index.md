@@ -6,29 +6,29 @@ title: Hugh Wilson
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Biophysics
+role: MRC Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Princeton University
-  url: https://www.princeton.edu/
+- name: MRC Laboratory of Molecular Biology
+  url: https://www2.mrc-lmb.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include single-molecule measurements and super-resolution imaging, molecular biophysics, algorithm development, and structural biology
+bio: My research interests include electron cryomicroscopy (cryoEM), molecular biophysics, single-molecule measurements, and algorithm development
 
 # Interests to show in About widget
 interests:
-- Single-molecule measurements and super-resolution imaging
+- Electron cryomicroscopy (cryoEM and cryoET)
 - Molecular biophysics
+- Single-molecule measurements and super-resolution imaging
 - Algorithm development (time series analysis, image processing)
-- Structural Biology (cryoEM and cryoET)
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Quantitative and Computational Biology (Biophysics)
     institution: Princeton University
-    year: 2021 (Expected)
+    year: 2022
   - course: M.A. in Quantitative and Computational Biology (Biophysics)
     institution: Princeton University
     year: 2017
@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Hi, I'm Hugh. I'm currently working on my **Ph.D. in single-molecule biophysics** at the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/) at Princeton University. I'm advised by [Quan Wang](https://wanglabprinceton.weebly.com/).
+Hi, I'm Hugh. I'm currently working as a postdoc with Chris Russo at the [MRC Laboratory of Molecular Biology](https://www.mrc-lmb.cam.ac.uk/crusso/).
 
-My research has focused on developing new tools and algorithms to extract dynamic structural information from individual biomolecules and complexes in solution. I've also applied these tools to study problems in molecular biophysics.
+My current research is focused on developing new specimen supports for electron cryomicroscopy & on studying the physics of electron-specimen interactions. Before that, my Ph.D. research focused on developing new tools and algorithms to extract dynamic structural information from individual biomolecules and complexes in solution. I also applied these tools to study problems in molecular biophysics.
